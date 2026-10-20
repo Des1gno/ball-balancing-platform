@@ -13,3 +13,4 @@ Development of an automated ball balancing system using IR sensors, phototransis
 CAD, Mechatronics, System Integration, Engineering Teamwork
 
 <img width="1147" height="1143" alt="image png" src="https://github.com/user-attachments/assets/fd1f059d-30ba-49c7-a794-fef11e291ed5" />
+<img width="1516" height="1162" alt="image" src="https://github.com/user-attachments/assets/10f2c675-cc7b-422c-b636-cfbb05eded7d" />
